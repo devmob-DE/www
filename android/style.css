@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+html, body, div, a, p {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+body {
+	background-color: #2c373c;
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+
+#header {
+	
+	background: #000;
+	height: 133px;
+}
+
+#headerimage {
+
+	background: url(images/header.jpg) center no-repeat #000;
+	margin: 0px auto;
+	width: 1100px;
+	height: 133px;
+}
+
+#content {
+	
+	background: url(images/content_bg.jpg)  center top no-repeat;
+	height: 648px;
+	margin: 0px auto;
+	width: 1100px;
+}
+
+#btnsupport {
+	width: 132px;
+	height: 28px;
+	float: right;
+	margin-right: 65px;
+}
+
+a img {
+	border: 0px;
+	-moz-outline-width: 0;
+}
+
+#iphone {
+	width: 500px;
+	height: 330px;
+	margin: 0px auto;
+	padding-top: 158px;
+	text-align: center;
+}
+
+#arealeft, #arearight {
+	width: 120px;
+	height: 330px;
+}
+
+#arealeft {
+	float: left;
+}
+
+#arearight {
+	float: right;
+	
+}
+
+.appbtn {
+	height: 100px;
+}
+
+.arrowbtn {
+	height: 230px;
+}
+
+#description {
+	width: 1100px;
+	margin: 0px auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: none;
+}
