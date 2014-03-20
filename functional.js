@@ -22,8 +22,8 @@ function linkTo_UnCryptMailto(s, shift)
 
 // Image swapping
 
-var imageIndex = 2;
-var arr = ["images/screen1.jpg", "images/screen2.jpg", "images/screen3.jpg", "images/screen4.jpg", "images/screen5.jpg"];
+var imageIndex = 3;
+var arr = ["screenshots/1.jpg", "screenshots/2.jpg", "screenshots/3.jpg", "screenshots/4.jpg", "screenshots/5.jpg"];
 
 function nextImage()
 {
@@ -33,7 +33,7 @@ function nextImage()
 		imageIndex = 0;
 	}
 	
-	document.images["image"].src = arr[imageIndex];
+	document.images["screenshots"].src = arr[imageIndex];
 }
 
 function previousImage()
@@ -44,5 +44,5 @@ function previousImage()
 		imageIndex = arr.length - 1;
 	}
 	
-	document.images["image"].src = arr[imageIndex];
+	document.images["screenshots"].src = arr[imageIndex];
 }
