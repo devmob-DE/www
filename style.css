@@ -42,7 +42,7 @@ body {
 
 #main {
 	background: url(images/content_bg.jpg)  center top no-repeat;
-	height: 700px;
+	height: 750px;
 	min-width: 1000px;
 }
 
@@ -53,21 +53,19 @@ a img {
 
 #content {
 	width: 900px;
-	height: 520px;
+	height: 428px;
 	margin: 0px auto;
-	padding-top: 168px;
+	padding-top: 196px;
 	text-align: center;
 	position: relative;
 }
 
-#iphone {
-	position: absolute;
-	top: 82px;
-	left: 53px;
-}
-
 #arealeft, #arearight {
 	height: 428px;
+}
+
+#arealeft a, #arearight a {
+	width: 126px;
 }
 
 #arealeft {
