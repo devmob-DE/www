@@ -24,6 +24,7 @@ function showSection(page){
 
 
 function isMobile(){
+	/*
 	var windowSize = window.parent.screenSize;
 	if (typeof windowSize === "undefined") {
 		windowSize = $(window).width();
@@ -33,6 +34,8 @@ function isMobile(){
 	} else {
 		return false;
 	}
+	*/
+	return true;
 }
 
 function closeContact(){
