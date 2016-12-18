@@ -1,0 +1,78 @@
+{
+  "entries": [
+  {
+    "person": "Martin",
+    "longitude": 13.4479177691024,
+    "locationAvailable": true,
+    "dateGMT": 1417495635,
+    "latitude": 52.50458117385626,
+    "value": 15,
+    "direction": "YOM",
+    "description": "Schnitzel @ MIchelberger",
+    "currency": "USD"
+  },
+  {
+    "person": "Martin",
+    "longitude": 0,
+    "locationAvailable": false,
+    "dateGMT": 1417501818,
+    "latitude": 0,
+    "value": 45,
+    "direction": "IOU",
+    "description": "Wakeboarding",
+    "currency": "USD"
+  },
+  {
+    "person": "Markus",
+    "longitude": 0,
+    "locationAvailable": false,
+    "dateGMT": 1417495745,
+    "latitude": 0,
+    "value": 120,
+    "direction": "YOM",
+    "description": "Party Einkäufe",
+    "currency": "USD"
+  },
+  {
+    "person": "Alex",
+    "longitude": 0,
+    "locationAvailable": false,
+    "dateGMT": 1417405745,
+    "latitude": 0,
+    "value": 800,
+    "direction": "YOM",
+    "description": "iPhone",
+    "currency": "USD"
+  },
+  {
+    "person": "Alex",
+    "longitude": 0,
+    "locationAvailable": false,
+    "dateGMT": 1417395745,
+    "latitude": 0,
+    "value": 25,
+    "direction": "IOU",
+    "description": "Kino",
+    "currency": "USD"
+  },
+  {
+    "person": "Andy",
+    "longitude": 0,
+    "locationAvailable": false,
+    "dateGMT": 1417424745,
+    "latitude": 0,
+    "value": 32,
+    "direction": "YOM",
+    "description": "Bouldern",
+    "currency": "USD"
+  }
+  ],
+  "meta": {
+    "systemVersion": "8.1",
+    "systemName": "iPhone OS",
+    "appName": "SW Debug",
+    "model": "iPhone Simulator",
+    "appVersion": "1.7.0b1",
+    "exportDateGMT": 1417502686
+  }
+}
